@@ -1,0 +1,9 @@
+name: CmdBukkit
+main: net.loonat.junaid.CmdBukkit
+version: 0.1
+
+commands:
+   cmd:
+      description: Execute commands on the host operating system
+      usage: /<command> [command to execute on host os]
+
